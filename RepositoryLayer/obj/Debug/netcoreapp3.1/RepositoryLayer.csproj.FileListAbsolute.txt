@@ -1,0 +1,150 @@
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.exe
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.exe
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.json
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.dev.json
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\LanguageExt.Core.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Pavithra N S\source\repos\TestBookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.exe
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.exe
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.json
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.dev.json
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\LanguageExt.Core.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csprojAssemblyReference.cache
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache

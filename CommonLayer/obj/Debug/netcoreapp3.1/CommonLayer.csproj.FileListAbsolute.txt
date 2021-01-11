@@ -1,0 +1,29 @@
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.exe
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.runtimeconfig.json
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.runtimeconfig.dev.json
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\bin\Debug\netcoreapp3.1\LanguageExt.Core.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CopyComplete
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Pavithra N S\source\repos\TestBookStore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.genruntimeconfig.cache
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.exe
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.runtimeconfig.json
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.runtimeconfig.dev.json
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\bin\Debug\netcoreapp3.1\LanguageExt.Core.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csprojAssemblyReference.cache
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CopyComplete
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\Studies\Bridgelabz\Fellowship--.NET\Angular\BookStore_WebAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.genruntimeconfig.cache
